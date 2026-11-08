@@ -1,4 +1,4 @@
-# Hi, I'm Mpho 👋
+# Hi, I'm Mpho
 
 ### Multimedia Computing Student | Aspiring Frontend Developer
 
