@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mpho 👋
 
-<!--
-**crackedphos/crackedphos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Multimedia Computing Student | Aspiring Frontend Developer
 
-Here are some ideas to get you started:
+I'm a Multimedia Computing student at Tshwane University of Technology (TUT), interested in building intuitive, accessible and functional web applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm currently developing my skills in frontend development, UI/UX design and modern web technologies.
+
+### 💻 Technologies & Tools
+
+- **Languages:** HTML, CSS, JavaScript, Java, Kotlin, SQL
+- **Frontend:** React, Tailwind CSS
+- **Tools:** Git, GitHub, Figma, VS Code
+- **Design:** UI/UX Design, Adobe Photoshop
+
+### 🚀 Projects
+
+- **MineGuard** – A mining safety management platform focused on PPE monitoring, restricted zones and workplace safety.
+- **Web Development** – Personal projects and exercises focused on improving my frontend development skills.
+
+### 🌱 Currently Learning
+
+- JavaScript and React
+- Frontend development best practices
+- Git and GitHub workflows
+- Responsive web design
+
+### 🎯 Goals
+
+- Become a skilled frontend developer.
+- Build practical projects that solve real-world problems.
+- Grow as a developer through collaboration and continuous learning.
+
+### 📫 Connect With Me
+
+- GitHub: [@crackedphos](https://github.com/crackedphos)
